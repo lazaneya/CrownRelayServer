@@ -1,0 +1,14 @@
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\bin\Debug\net8.0\CrownRelayServer.exe
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\bin\Debug\net8.0\CrownRelayServer.deps.json
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\bin\Debug\net8.0\CrownRelayServer.runtimeconfig.json
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\bin\Debug\net8.0\CrownRelayServer.dll
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\bin\Debug\net8.0\CrownRelayServer.pdb
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.AssemblyInfoInputs.cache
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.AssemblyInfo.cs
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.csproj.CoreCompileInputs.cache
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.dll
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\refint\CrownRelayServer.dll
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.pdb
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.genruntimeconfig.cache
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\ref\CrownRelayServer.dll
