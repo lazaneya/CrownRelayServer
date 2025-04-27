@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IVChgmphTEXQSPekrup8myG+RtP/omCBMrG8wRsHTYJoiGvNE3HKMg1dB8mTR/IZwxmApvZGfWmQaV2y71lwHQ==",
+  "dgSpecHash": "9oQLScrZ/LJp3YzLDvWxj5f3/QKi25vfQFl9oX8/R4mNQSZUk5jINsDQjMtEQlK7UhbpplojuuShE0YJLFkfjA==",
   "success": true,
   "projectFilePath": "E:\\GodotProjects\\CrownRelayServer\\CrownRelayServer\\CrownRelayServer\\CrownRelayServer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JUMP\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\8.0.1\\microsoft.netcore.app.runtime.linux-arm64.8.0.1.nupkg.sha512",
+    "C:\\Users\\JUMP\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\8.0.1\\microsoft.aspnetcore.app.runtime.linux-arm64.8.0.1.nupkg.sha512",
+    "C:\\Users\\JUMP\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\8.0.1\\microsoft.netcore.app.host.linux-arm64.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
