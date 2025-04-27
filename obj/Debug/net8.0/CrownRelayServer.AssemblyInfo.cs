@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrownRelayServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a33f468968f730d45698ebe953c0a10125a0411")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d80cd1da28eaccd20bfa63357ccd2ac9f669908c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrownRelayServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrownRelayServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

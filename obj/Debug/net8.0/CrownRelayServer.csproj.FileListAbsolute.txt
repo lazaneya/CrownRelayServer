@@ -12,3 +12,4 @@ E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\ne
 E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.pdb
 E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.genruntimeconfig.cache
 E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\ref\CrownRelayServer.dll
+E:\GodotProjects\CrownRelayServer\CrownRelayServer\CrownRelayServer\obj\Debug\net8.0\CrownRelayServer.sourcelink.json
